@@ -1,0 +1,32 @@
+ <string name="get_it">Hole es!</string> =false 
+  <string name="get_it">Abholen!</string>= true 
+  
+   <string name="keep_ip">Keep IP für diese Sitzung</string> =false
+   <string name="keep_ip">merke IP für diese Sitzung</string> = True
+   
+   <string name="stop_on_release">Bei Freigabe stoppen</string> =false
+   <string name="stop_on_release">Beim Loslassen stoppen</string> = true
+   
+   <string name="user_not_found">Benutzer mit einer solcher ID wurde nicht gefunden</string> = false
+   <string name="user_not_found">Benutzer mit einer dieser ID wurde nicht gefunden</string> = true
+   
+   string name="free_coins_toast">Du hast %d Münzen kostenlos!</string> = false
+   string name="free_coins_toast">Du hast %d Münzen kostenlos bekommen!</string> =true
+   
+   <string name="lvl_coins_reward">Herzliche Glückwünsche! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string> = false
+   <string name="lvl_coins_reward">Herzlichen Glückwünsch! Du hast Level erreicht %1$d und gewonnen %2$d Münzen!</string> =true
+   
+   <string name="choose_friend">Choisis ton ami</string =false
+   <string name="choose_friend">Freunde einladen</string = true
+   
+     <string name="join_server">Rejoindre le serveur</string> = false
+       <string name="join_server">Treten sie dem server bei</string> = true
+       
+        <string name="in_game_zoom">Zoom in de game</string> = false
+         <string name="in_game_zoom">Zoomen in spiel</string> = true
+         
+         <string name="medal_description">%1$s medal for placing in the top %2$s in global rankings!</string> = false
+         <string name="medal_description">%1$s medalie für Platzierung top %2$s im globalen rank!</string>
+         
+         <string name="chat_m_hide_show">verbergen/anzeigen</string> =false
+         <string name="chat_m_hide_show">chat Aus/chat An</string> = true
